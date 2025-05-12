@@ -7,7 +7,6 @@
 Vamos buscar apresentar as melhores praticas para a implementacao de um data lake, considerando principalemrnte a parte governamental e de metadados.
 
 ## Quais tecnologias vamos usar?
-
 - Python
 - Docker
 - Spark
