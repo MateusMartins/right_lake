@@ -13,6 +13,10 @@ Vamos buscar apresentar as melhores praticas para a implementacao de um data lak
 - Spark
 - Airflow
 
+
+## Datasets
+- [Pokemon](https://www.kaggle.com/datasets/abcsds/pokemon?resource=download)
+
 ### Desenvolvedores
 - Mateus Ferreira
 - Ariel Marinho
