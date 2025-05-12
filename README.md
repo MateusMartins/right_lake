@@ -10,8 +10,9 @@ Vamos buscar apresentar as melhores praticas para a implementacao de um data lak
 - Python
 - Docker
 - Spark
-- Airflow
-
+- [DataHub](https://docs.datahub.com/docs/docker/)
+- [Airflow](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
+- [PostgreSQL](https://hub.docker.com/_/postgres)
 
 ## Datasets
 - [Pokemon](https://www.kaggle.com/datasets/abcsds/pokemon?resource=download)
