@@ -13,9 +13,17 @@ Vamos buscar apresentar as melhores praticas para a implementacao de um data lak
 - [DataHub](https://docs.datahub.com/docs/docker/)
 - [Airflow](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
 - [PostgreSQL](https://hub.docker.com/_/postgres)
+- [Flink](https://nightlies.apache.org/flink/flink-docs-master/docs/deployment/resource-providers/standalone/docker/)
+- [Kafka](https://kafka.apache.org/quickstart)
+- [Trino](https://trino.io/docs/current/installation/containers.html)
+- [Dremio](https://www.dremio.com)
 
 ## Datasets
 - [Pokemon](https://www.kaggle.com/datasets/abcsds/pokemon?resource=download)
+
+## Algumas decisoes
+- Selecionamos o docker no lugar do terraform
+- Vimos que o Apache pulsar também e uma alternativa para o kafka
 
 ### Desenvolvedores
 - Mateus Ferreira
