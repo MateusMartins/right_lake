@@ -10,13 +10,20 @@ Vamos buscar apresentar as melhores praticas para a implementacao de um data lak
 - Python
 - Docker
 - Spark
-- [DataHub](https://docs.datahub.com/docs/docker/)
 - [Airflow](https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html)
 - [PostgreSQL](https://hub.docker.com/_/postgres)
-- [Flink](https://nightlies.apache.org/flink/flink-docs-master/docs/deployment/resource-providers/standalone/docker/)
 - [Kafka](https://kafka.apache.org/quickstart)
 - [Trino](https://trino.io/docs/current/installation/containers.html)
-- [Dremio](https://www.dremio.com)
+- Grafana
+- Prometheus
+- Kubernetes
+- Delta lake
+- Metabase
+- Great Expectations
+- Kafka Connect
+- Debezium
+
+![Arquitetura do projeto](arquitetura_inicial.png)
 
 ## Datasets
 - [Pokemon](https://www.kaggle.com/datasets/abcsds/pokemon?resource=download)
